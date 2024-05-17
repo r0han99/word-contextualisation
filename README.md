@@ -1,2 +1,4 @@
-# word-contextualisation
+# Word Contextualisation with Fine-Tuned State-of-the-Art Transformers
 Building Semantic Surroundings for Advanced Vocabulary
+
+Welcome to the Word Contextualization Generator project! This initiative focuses on fine-tuning large language models (LLMs) such as GPT-2, Llama2, and Gemma-2b to generate contextually relevant and linguistically coherent word usage examples in the field of astronomy. By leveraging a custom dataset of 30 vocabulary words and their usage instances, we aim to enhance the models' ability to produce domain-specific text. The project includes detailed steps for data preparation, model selection, fine-tuning, and evaluation using advanced metrics like chrF++. Our goal is to push the boundaries of automated text generation in specialized domains, providing valuable insights into the customization of LLMs for precise and contextually appropriate applications.
