@@ -26,7 +26,9 @@ Abundance can be determined by analyzing a sample of
 
 ```fine-tuned llm```
 
-```A plethora of planets has abounded in the Milky Way galaxy.```
+```
+Response: A plethora of planets has abounded in the Milky Way galaxy.
+```
 
 ---
 
